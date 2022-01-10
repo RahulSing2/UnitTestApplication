@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\UnitTestApplication\UnitTestApplication\bin\Debug\netcoreapp3.1\UnitTestApplication.exe
+C:\Users\User\source\repos\UnitTestApplication\UnitTestApplication\bin\Debug\netcoreapp3.1\UnitTestApplication.deps.json
+C:\Users\User\source\repos\UnitTestApplication\UnitTestApplication\bin\Debug\netcoreapp3.1\UnitTestApplication.runtimeconfig.json
+C:\Users\User\source\repos\UnitTestApplication\UnitTestApplication\bin\Debug\netcoreapp3.1\UnitTestApplication.runtimeconfig.dev.json
+C:\Users\User\source\repos\UnitTestApplication\UnitTestApplication\bin\Debug\netcoreapp3.1\UnitTestApplication.dll
+C:\Users\User\source\repos\UnitTestApplication\UnitTestApplication\bin\Debug\netcoreapp3.1\UnitTestApplication.pdb
+C:\Users\User\source\repos\UnitTestApplication\UnitTestApplication\obj\Debug\netcoreapp3.1\UnitTestApplication.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\UnitTestApplication\UnitTestApplication\obj\Debug\netcoreapp3.1\UnitTestApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\UnitTestApplication\UnitTestApplication\obj\Debug\netcoreapp3.1\UnitTestApplication.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UnitTestApplication\UnitTestApplication\obj\Debug\netcoreapp3.1\UnitTestApplication.AssemblyInfo.cs
+C:\Users\User\source\repos\UnitTestApplication\UnitTestApplication\obj\Debug\netcoreapp3.1\UnitTestApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UnitTestApplication\UnitTestApplication\obj\Debug\netcoreapp3.1\UnitTestApplication.dll
+C:\Users\User\source\repos\UnitTestApplication\UnitTestApplication\obj\Debug\netcoreapp3.1\UnitTestApplication.pdb
+C:\Users\User\source\repos\UnitTestApplication\UnitTestApplication\obj\Debug\netcoreapp3.1\UnitTestApplication.genruntimeconfig.cache
